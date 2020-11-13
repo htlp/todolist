@@ -1,7 +1,7 @@
 单体架构
 分层架构
 mvc及其变种
-EBI架构
+EBI(Entity-Boundary-Interactor，实体-边界-交互器)架构
 领域驱动设计
 端口和适配器架构
 洋葱架构
